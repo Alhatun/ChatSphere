@@ -2,8 +2,6 @@
 
 ChatSphere is a real-time communication platform that allows users to engage in interactive conversations within public chat rooms. It provides a diverse and engaging community where users can connect, share ideas, and communicate in real-time.
 
-![ChatSphere](https://example.com/screenshot.png)
-
 ## Features
 
 - **Real-Time Chat Experience:** Engage in seamless conversations with a diverse community in real-time, enabling instant messaging and connection across devices.
