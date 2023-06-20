@@ -43,7 +43,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For any questions or inquiries, please reach out to us at example@example.com.
+For any questions or inquiries, please reach out to us at alhatunalsalamah@gmail.com.
 
 Enjoy using ChatSphere for immersive and engaging conversations!
 
